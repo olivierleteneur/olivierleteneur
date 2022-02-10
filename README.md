@@ -7,3 +7,5 @@
 - 💬 Vous pouvez me demander de l'aide sur des sujets que je connais et que vous trouverez sur mon profil Linkedin
 - 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
 - :blue_book: Je termine l'écriture d'un lilvre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur)](https://github.com/olivierleteneur/github-readme-stats)
