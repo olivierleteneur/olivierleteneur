@@ -9,3 +9,4 @@
 - :blue_book: Je termine l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur&show_icons=true&theme=tokyonight )](https://github.com/olivierleteneur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivierleteneur&layout=compact)](https://github.com/olivierleteneur/github-readme-stats)
