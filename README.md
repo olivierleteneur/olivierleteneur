@@ -1,7 +1,7 @@
 ### Bonjour :smiley:
 
-- 🔭 En ce moment, je travaille en tant que DevOps sur un projet de factorisation/automatisation chez SNCF Connect
-- 🌱 J'apprends Python et continue de progresser sur AWS
+- :briefcase: En ce moment, je travaille en tant que DevOps sur un projet de factorisation/automatisation chez SNCF Connect
+- :pencil2: J'apprends Python et continue de progresser sur AWS
 - :house_with_garden: Je révise tous les fondamentaux DevOps
 - 👯 J'accompagne les débutant/es dans l'informatique
 - :woman: Je promeus la place des femmes dans le domaine informatique
