@@ -8,4 +8,4 @@
 - 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
 - :blue_book: Je termine l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur&show_icons=true&theme=radical)](https://github.com/olivierleteneur/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur&show_icons=true&theme=tokyonight )](https://github.com/olivierleteneur/github-readme-stats)
