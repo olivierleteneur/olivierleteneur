@@ -1,6 +1,6 @@
-### Bonjour :smiley:
+# Bonjour :smiley:
 
-#### Professionnel
+## Professionnel
 - :briefcase: En ce moment, je travaille en tant que DevOps sur un projet de factorisation/automatisation chez SNCF Connect
 - :pencil2: J'apprends Python et continue de progresser sur AWS
 - :house_with_garden: Je révise tous les fondamentaux DevOps
@@ -14,25 +14,25 @@
 - 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
 - Je parle :fr: :us: :uk: :es:
 
-#### Dans la vraie vie
+## Dans la vraie vie
 - :musical_note:  J'aime les arts
 - :rocket: J'aime la recherche scientifique et spatiale
 - :family: :baby: Je suis père de 3 enfants et désormais grand-père
 
-#### Activités créatives
+## Activités créatives
 - :camera: Je réalise des photos
 - :blue_book: Je termine l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel
 
-#### Sur les réseaux sociaux
+## Sur les réseaux sociaux
 ![FaceBook](https://img.shields.io/badge/-FaceBook-E34F26?style=flat&logo=facebook&logoColor=white)&nbsp;
 
-<!-- [![Gmail Badge](https://img.shields.io/badge/-olivierleteneur@gmail.com-DD0031?style=flat&logo=Gmail&logoColor=white&link=mailto:olivierleteneur@gmail.com)](mailto:olivierleteneur@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-olivierleteneur@gmail.com-DD0031?style=flat&logo=Gmail&logoColor=white&link=mailto:olivierleteneur@gmail.com)](mailto:olivierleteneur@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-olivier-leteneur-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivier-leteneur/)](https://www.linkedin.com/in/olivier-leteneur/)
-[![Twitter Badge](https://img.shields.io/badge/-olivierleteneur-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/olivierleteneur)](https://twitter.com/olivierleteneur) -->
+[![Twitter Badge](https://img.shields.io/badge/-olivierleteneur-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/olivierleteneur)](https://twitter.com/olivierleteneur)
 
-#### Mon stack
+## Mon stack
 
-##### Langages
+### Langages
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
@@ -49,7 +49,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
 
 
-##### DevOps
+### DevOps
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
@@ -67,8 +67,7 @@
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)&nbsp;
 
 
-##### Systèmes
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=bash&logoColor=white)&nbsp;
+### Systèmes
 ![Linux](https://img.shields.io/badge/-Linux-4EAA25?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-4EAA25?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![RedHat](https://img.shields.io/badge/-RedHat-4EAA25?style=flat&logo=redhat&logoColor=white)&nbsp;
@@ -77,7 +76,7 @@
 ![MicrosoftServers](https://img.shields.io/badge/Microsoft-666666?style=flat&logo=microsoft&logoColor=white)&nbsp;
 
 
-#### GitHub Statistics
+## GitHub Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur&show_icons=true&theme=tokyonight )](https://github.com/olivierleteneur/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivierleteneur&layout=compact&show_icons=true&theme=github_dark )](https://github.com/olivierleteneur/github-readme-stats)
