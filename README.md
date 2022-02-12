@@ -27,7 +27,7 @@
 ![FaceBook](https://img.shields.io/badge/-FaceBook-E34F26?style=flat&logo=facebook&logoColor=white)&nbsp;
 
 [![Gmail Badge](https://img.shields.io/badge/-olivierleteneur@gmail.com-DD0031?style=flat&logo=Gmail&logoColor=white&link=mailto:olivierleteneur@gmail.com)](mailto:olivierleteneur@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-olivier-leteneur-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olivier-leteneur/)](https://www.linkedin.com/in/olivier-leteneur/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olivier-leteneur/)](https://www.linkedin.com/in/olivier-leteneur/)
 [![Twitter Badge](https://img.shields.io/badge/-olivierleteneur-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/olivierleteneur)](https://twitter.com/olivierleteneur)
 
 ## Mon stack
