@@ -9,7 +9,7 @@
 - :older_woman: :older_man: Je promeus la place des personnes d'âge expérimenté en entreprise
 - :rainbow: Je promeus le respect LGBTQ+ en entreprise
 - :star: Je promeus la diversité et l'inclusion en entreprise
-- :relaxed: Je cherche des persponnes motivées pour faire évoluer à la baisse notre empreinte carbone dans le métier
+- :relaxed: Je cherche des personnes motivées pour faire évoluer à la baisse notre empreinte carbone dans le métier
 - 💬 Vous pouvez me demander de l'aide sur des sujets que je connais et que vous trouverez sur mon profil Linkedin
 - 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
 - Je parle :fr: :us: :uk: :es:
