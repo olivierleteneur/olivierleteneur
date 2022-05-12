@@ -94,3 +94,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olivierleteneur&show_icons=true&theme=tokyonight )](https://github.com/olivierleteneur/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivierleteneur&layout=compact&show_icons=true&theme=github_dark )](https://github.com/olivierleteneur/github-readme-stats)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=olivierleteneur)
