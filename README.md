@@ -2,14 +2,14 @@
 
 ## Professionnel
 - :briefcase: Et voilà, je suis devenu Directeur Technique chez Razorfish, pour le groupe Publicis
-- :pencil2: J'apprends Python et continue de progresser sur AWS
+- :pencil2: J'apprends Typescript et continue de progresser sur AWS et Python
 - :house_with_garden: Je révise tous les fondamentaux DevOps
 - 👯 J'accompagne les débutant⸱es dans l'informatique
 - :woman: Je promeus la place des femmes dans le domaine informatique
 - :older_woman: :older_man: Je promeus la place des personnes d'âge expérimenté en entreprise
 - :rainbow: Je promeus le respect LGBTQ+ en entreprise
 - :star: Je promeus la diversité et l'inclusion en entreprise
-- :relaxed: Je cherche des personnes motivées pour faire évoluer à la baisse notre empreinte carbone dans le métier
+- :relaxed: Je propose de faire évoluer à la baisse notre empreinte carbone dans le métier
 - 💬 Vous pouvez me demander de l'aide sur des sujets que je connais et que vous trouverez sur mon profil Linkedin
 - 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
 - Je parle :fr: :us: :uk: :es:
@@ -18,10 +18,11 @@
 - :musical_note:  J'aime les arts
 - :rocket: J'aime la recherche scientifique et spatiale
 - :family: :baby: Je suis père de 3 enfants et désormais grand-père
+- :love: Mon coeur est pris
 
 ## Activités créatives
 - :camera: Je réalise des photos
-- :blue_book: Je termine l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel
+- :blue_book: J'ai terminé l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel. Je vais le publier
 
 ## Sur les réseaux sociaux
 ![FaceBook](https://img.shields.io/badge/-FaceBook-0077B5?style=flat&logo=facebook&logoColor=white)&nbsp;
