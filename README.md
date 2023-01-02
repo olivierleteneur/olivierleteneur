@@ -1,7 +1,7 @@
 # Bonjour :smiley:
 
 ## Professionnel
-- :briefcase: En ce moment, je travaille en tant que DevOps sur un projet de factorisation/automatisation chez SNCF Connect
+- :briefcase: Et voilà, je suis devenu Directeur Technique chez Razorfish, pour le groupe Publicis
 - :pencil2: J'apprends Python et continue de progresser sur AWS
 - :house_with_garden: Je révise tous les fondamentaux DevOps
 - 👯 J'accompagne les débutant⸱es dans l'informatique
