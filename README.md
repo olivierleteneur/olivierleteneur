@@ -1,10 +1,10 @@
 # Bonjour :smiley:
 
 ## Professionnel
-- :briefcase: Et voilà, je suis devenu Directeur Technique chez Razorfish, pour le groupe Publicis
-- :pencil2: J'apprends Typescript et continue de progresser sur AWS et Python
+- :briefcase: Je suis Directeur Technique chez Razorfish, pour le groupe Publicis
+- :brain: Chaque jour je grandis avec l'IA, tant que le plan professionnel que personnel. Pas seulemnt les prompts, mais aussi en créant des solutions
+- :pencil2: Je continue de progresser sur AWS et Python
 - :house_with_garden: Je révise tous les fondamentaux DevOps
-- 👯 J'accompagne les débutant⸱es dans l'informatique
 - :woman: Je promeus la place des femmes dans le domaine informatique
 - :older_woman: :older_man: Je promeus la place des personnes d'âge expérimenté en entreprise
 - :rainbow: Je promeus le respect LGBTQ+ en entreprise
