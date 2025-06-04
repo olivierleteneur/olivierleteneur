@@ -66,11 +66,9 @@ JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwin
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/olivier-leteneur)
 
-
 ## On social networks
-![FaceBook](https://img.shields.io/badge/-FaceBook-0077B5?style=flat&logo=facebook&logoColor=white)&nbsp;
+![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)&nbsp;
 ![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&logo=flickr&logoColor=white)&nbsp;
-
 [![Gmail](https://img.shields.io/badge/olivierleteneur-DD0031?style=flat&logo=Gmail&logoColor=white&link=mailto:olivierleteneur@gmail.com)](mailto:olivierleteneur@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olivier-leteneur/)](https://www.linkedin.com/in/olivier-leteneur/)
 [![Twitter](https://img.shields.io/badge/-olivierleteneur-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/olivierleteneur)](https://twitter.com/olivierleteneur)
@@ -106,7 +104,7 @@ JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwin
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=jira&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-330F63?style=flat&logo=github&logoColor=white)&nbsp;
