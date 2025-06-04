@@ -1,29 +1,73 @@
-# Bonjour :smiley:
+<!-- Version française -->
 
-## Professionnel
-- :briefcase: Je suis Directeur Technique chez Razorfish, pour le groupe Publicis
-- :brain: Chaque jour je grandis avec l'IA, tant que le plan professionnel que personnel. Pas seulemnt les prompts, mais aussi en créant des solutions
-- :pencil2: Je continue de progresser sur AWS et Python
-- :house_with_garden: Je révise tous les fondamentaux DevOps
-- :woman: Je promeus la place des femmes dans le domaine informatique
-- :older_woman: :older_man: Je promeus la place des personnes d'âge expérimenté en entreprise
-- :rainbow: Je promeus le respect LGBTQ+ en entreprise
-- :star: Je promeus la diversité et l'inclusion en entreprise
-- :relaxed: Je propose de faire évoluer à la baisse notre empreinte carbone dans le métier
-- 💬 Vous pouvez me demander de l'aide sur des sujets que je connais et que vous trouverez sur mon profil Linkedin
-- 📫 Vous pouvez me joindre sur Linkedin en premier lieu, et ensuite me suivre sur les autres réseaux sociaux, à commencer par Twitter
-- Je parle :fr: :us: :uk: :es:
+<p align="right"><a href="#english-version">🇬🇧 Switch to English</a></p>
 
-## Dans la vraie vie
-- :musical_note:  J'aime les arts
-- :rocket: J'aime la recherche scientifique et spatiale
-- :family: :baby: Je suis père de 3 enfants et désormais grand-père
+# Bonjour, je suis Olivier 👋
 
-## Activités créatives
-- :camera: Je réalise des photos
-- :blue_book: J'ai écrit un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers IBM Personnal Computer, puis comme professionnel
+Je suis actuellement Directeur Technique freelance, avec une expertise forte en transformation digitale, projets IA, et développement web & cloud.
 
-## Sur les réseaux sociaux
+## 🚀 Ce que je fais
+
+- J'encadre des équipes techniques (back-end, front-end, DevOps, UX/UI, data, IA)
+- Je conçois et réalise des plateformes digitales, apps, chatbots, dashboards, outils d'automatisation
+- J'accompagne l'innovation stratégique : audits, prototypes, MVP, industrialisation
+
+## 🧠 Ce qui me passionne
+
+- L’IA et l’automatisation au service du concret
+- L’éco-conception, la performance et l’optimisation
+- Les expériences interactives, pédagogiques ou ludiques
+- La documentation, l’expérience développeur et la gestion des connaissances
+
+## 📌 Quelques références
+
+Nissan · Renault · Axa · Société Générale · Fnac Darty · Castorama · Cartier · McDonald’s · Essilor · Ma French Bank · La Banque Postale · Covéa
+
+## 🛠 Outils & Langages
+
+JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwind · Bash · Docker · Firebase · OVH · GitHub Actions · Vercel · Notion · OpenAI · Langchain
+
+## 🌍 Me contacter
+
+- [Mon profil LinkedIn](https://www.linkedin.com/in/olivier-leteneur)
+
+---
+
+<!-- English version -->
+
+<p align="right"><a href="#bonjour-je-suis-olivier-">🇫🇷 Revenir en français</a></p>
+
+# English Version 👋
+
+I’m currently a freelance Technical Director, with deep expertise in digital transformation, AI projects, and web & cloud development.
+
+## 🚀 What I do
+
+- I lead technical teams (back-end, front-end, DevOps, UX/UI, data, AI)
+- I design and deliver digital platforms, apps, chatbots, dashboards and automation tools
+- I guide strategic innovation: audits, prototypes, MVPs, production pipelines
+
+## 🧠 I’m passionate about…
+
+- AI and automation for real-life impact
+- Green development & performance optimization
+- Interactive and gamified learning experiences
+- Documentation, developer experience and knowledge management
+
+## 📌 A few references
+
+Nissan · Renault · Axa · Société Générale · Fnac Darty · Castorama · Cartier · McDonald’s · Essilor · Ma French Bank · La Banque Postale · Covéa
+
+## 🛠 Tools & Languages
+
+JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwind · Bash · Docker · Firebase · OVH · GitHub Actions · Vercel · Notion · OpenAI · Langchain
+
+## 🌍 Let’s connect
+
+- [My LinkedIn Profile](https://www.linkedin.com/in/olivier-leteneur)
+
+
+## On social networks
 ![FaceBook](https://img.shields.io/badge/-FaceBook-0077B5?style=flat&logo=facebook&logoColor=white)&nbsp;
 ![Flickr](https://img.shields.io/badge/-Flickr-0063DC?style=flat&logo=flickr&logoColor=white)&nbsp;
 
@@ -31,9 +75,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olivier-leteneur/)](https://www.linkedin.com/in/olivier-leteneur/)
 [![Twitter](https://img.shields.io/badge/-olivierleteneur-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/olivierleteneur)](https://twitter.com/olivierleteneur)
 
-## Mon stack
+## My stack
 
-### Langages
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 
@@ -78,7 +122,7 @@
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)&nbsp;
 
 
-### Systèmes
+### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-F05032?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![RedHat](https://img.shields.io/badge/-RedHat-EE0000?style=flat&logo=redhat&logoColor=white)&nbsp;
