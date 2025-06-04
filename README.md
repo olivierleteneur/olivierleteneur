@@ -18,11 +18,10 @@
 - :musical_note:  J'aime les arts
 - :rocket: J'aime la recherche scientifique et spatiale
 - :family: :baby: Je suis père de 3 enfants et désormais grand-père
-- :love: Mon coeur est pris
 
 ## Activités créatives
 - :camera: Je réalise des photos
-- :blue_book: J'ai terminé l'écriture d'un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers Personnal Computer, puis comme professionnel. Je vais le publier
+- :blue_book: J'ai écrit un livre qui raconte mon parcours dans ce domaine au cours des 35 dernières années, d'abord comme utilisateur d'un des premiers IBM Personnal Computer, puis comme professionnel
 
 ## Sur les réseaux sociaux
 ![FaceBook](https://img.shields.io/badge/-FaceBook-0077B5?style=flat&logo=facebook&logoColor=white)&nbsp;
