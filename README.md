@@ -4,7 +4,7 @@
 
 # Bonjour, je suis Olivier 👋
 
-Je suis actuellement Directeur Technique freelance, avec une expertise forte en transformation digitale, projets IA, et développement web & cloud.
+Je suis Directeur Technique en solutions numériques, avec une expertise forte en transformation digitale, projets IA, et développement web & cloud.
 
 ## 🚀 Ce que je fais
 
@@ -39,7 +39,7 @@ JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwin
 
 # English Version 👋
 
-I’m currently a freelance Technical Director, with deep expertise in digital transformation, AI projects, and web & cloud development.
+I’m a Technical Director for digital solutions, with deep expertise in digital transformation, AI projects, and web & cloud development.
 
 ## 🚀 What I do
 
