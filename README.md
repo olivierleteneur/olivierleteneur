@@ -99,6 +99,22 @@ JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwin
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
+### AI & LLM
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)&nbsp;
+![Mistral](https://img.shields.io/badge/Mistral_AI-FA520F?style=flat&logo=mistralai&logoColor=white)&nbsp;
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)&nbsp;
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat&logo=microsoftcopilot&logoColor=white)&nbsp;
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)&nbsp;
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=flat)&nbsp;
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-000000?style=flat)&nbsp;
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)&nbsp;
+
+
 ### DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
