@@ -27,6 +27,14 @@ Nissan · Renault · Axa · Société Générale · Fnac Darty · Castorama · C
 
 JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwind · Bash · Docker · Firebase · OVH · GitHub Actions · Vercel · Notion · OpenAI · Langchain
 
+## 🧰 Projets en vitrine
+
+| Projet | En bref |
+|---|---|
+| [git-toolbox](https://github.com/olivierleteneur/infra-python-gitToolbox) | CLI Python sans dépendance pour entretenir un dossier de dépôts git : mise à jour, comptage et nettoyage prudent des branches, audit des README. 56 tests sur de vrais dépôts, CI Linux et macOS |
+| [Compliments · Responsible Digital](https://github.com/olivierleteneur/products-module-MMM-Compliments_ResponsibleDigital) | Conseils de sobriété numérique pour le module Compliments de MagicMirror², en français et en anglais, validés par des tests `node:test` |
+| [Templates de fichiers](https://github.com/olivierleteneur?tab=repositories&q=infra-template) | Modèles de départ pour Bash, KSH, Python, JavaScript, HTML, CSS, Markdown, YAML et Rust |
+
 ## 🌍 Me contacter
 
 - [Mon profil LinkedIn](https://www.linkedin.com/in/olivier-leteneur)
@@ -61,6 +69,14 @@ Nissan · Renault · Axa · Société Générale · Fnac Darty · Castorama · C
 ## 🛠 Tools & Languages
 
 JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwind · Bash · Docker · Firebase · OVH · GitHub Actions · Vercel · Notion · OpenAI · Langchain
+
+## 🧰 Featured projects
+
+| Project | In short |
+|---|---|
+| [git-toolbox](https://github.com/olivierleteneur/infra-python-gitToolbox) | Dependency-free Python CLI to keep a folder of git repositories tidy: refresh, count and safely clean branches, audit READMEs. 56 tests against real repositories, CI on Linux and macOS |
+| [Compliments · Responsible Digital](https://github.com/olivierleteneur/products-module-MMM-Compliments_ResponsibleDigital) | Responsible digital tips for the MagicMirror² Compliments module, in English and French, checked by `node:test` tests |
+| [File templates](https://github.com/olivierleteneur?tab=repositories&q=infra-template) | Starter files for Bash, KSH, Python, JavaScript, HTML, CSS, Markdown, YAML and Rust |
 
 ## 🌍 Let’s connect
 
