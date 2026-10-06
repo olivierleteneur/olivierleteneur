@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # tous les jours à 3h UTC
+    - cron: "41 3 * * *"  # tous les jours à 3h41 UTC (GitHub retarde les tâches lancées à heure pile)
   workflow_dispatch:        # lancement manuel depuis l'onglet Actions
 
 permissions:
