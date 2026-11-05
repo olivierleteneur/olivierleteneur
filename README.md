@@ -168,7 +168,6 @@ JS/TS · Python · Next.js · Node.js · MongoDB · Postgres · Redis · Tailwin
 
 ## GitHub Statistics
 
-![GitHub stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=olivierleteneur)
